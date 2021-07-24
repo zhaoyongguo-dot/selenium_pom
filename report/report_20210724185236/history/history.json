@@ -1,0 +1,80 @@
+{
+  "feecb833c2d9045ca3d57f06a3fd5ad5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7014e103549f77f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1627123960316,
+        "stop" : 1627123982301,
+        "duration" : 21985
+      }
+    } ]
+  },
+  "1694622cb3f675e0e52ac92518923bc8" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9868b64ca87ed458",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: 登陆成功\nassert 'cjl' == 'zyg'\n  - zyg\n  + cjl",
+      "time" : {
+        "start" : 1627123959837,
+        "stop" : 1627123960077,
+        "duration" : 240
+      }
+    } ]
+  },
+  "fa5aa3a153cfb90aa44cdc09a1a89ac9" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b89acefdec5407d8",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: 登陆成功\nassert 'cjl' == 'zyg'\n  - zyg\n  + cjl",
+      "time" : {
+        "start" : 1627123958794,
+        "stop" : 1627123959480,
+        "duration" : 686
+      }
+    } ]
+  },
+  "86c3e3fbc0812fdbd7ff124b7fb6c845" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c0b34b09fb48c5bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1627123960086,
+        "stop" : 1627123960313,
+        "duration" : 227
+      }
+    } ]
+  }
+}

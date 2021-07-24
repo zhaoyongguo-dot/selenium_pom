@@ -1,0 +1,13 @@
+# 一个浏览器对象,正确的用例放到最后
+# 正确用例
+-
+  username: cjl
+  password: 123456
+# 用户名错误
+-
+  username: cjl
+  password: 123457
+# 密码错误
+-
+  username: zyg
+  password: 123456

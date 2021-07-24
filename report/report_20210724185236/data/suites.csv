@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Sat Jul 24 18:52:38 CST 2021","Sat Jul 24 18:52:39 CST 2021","686","cases","test_pytest","TestCase","","","test_1_login[data0]",""
+"passed","Sat Jul 24 18:52:40 CST 2021","Sat Jul 24 18:53:02 CST 2021","21985","cases","test_pytest","TestCase","","","test_2_index[data0]",""
+"failed","Sat Jul 24 18:52:39 CST 2021","Sat Jul 24 18:52:40 CST 2021","240","cases","test_pytest","TestCase","","","test_1_login[data1]",""
+"passed","Sat Jul 24 18:52:40 CST 2021","Sat Jul 24 18:52:40 CST 2021","227","cases","test_pytest","TestCase","","","test_1_login[data2]",""
