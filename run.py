@@ -15,6 +15,8 @@ import pytest
 """
     run.py: error: unrecognized arguments: --alluredir=./report/allure_raw
     settings---python interpreter---不要使用虚拟环境,使用系统环境运行
+    
+    --alluredir ./report/allure_row --clean-alluredir
 """
 
 if __name__ == '__main__':

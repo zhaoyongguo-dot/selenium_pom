@@ -46,3 +46,8 @@ class TestCase(object):
         txt = data['txt']
         self.ip.search(txt)
         assert txt == '手机', '搜索成功'
+
+    @pytest.mark.smoke
+    def test_3_(self):
+        print('用例3执行成功')
+        assert 1==1, '1==1'
